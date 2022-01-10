@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Comenzando 🚀
 
 1. Clona este proyecto.
-2. Ve a la carpeta del proyecto `cd pokedex` 
+2. Ve a la carpeta del proyecto `cd app-clima` 
 3. Instala las dependencias `npm install` 
 4. Corre el ambiente local `npm start` 
 

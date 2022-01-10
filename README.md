@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Comenzando 🚀
 
-1.Clona este proyecto.
-2.Ve a la carpeta del proyecto cd pokedex
-3.Instala las dependencias npm install
-4.Corre el ambiente local npm start
+1.Clona este proyecto.\\
+2.Ve a la carpeta del proyecto cd pokedex \
+3.Instala las dependencias npm install \
+4.Corre el ambiente local npm start \
 
 ### `npm start`
 
